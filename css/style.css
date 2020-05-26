@@ -1,0 +1,120 @@
+body{
+  position : relative;
+  background-color: #edf492;
+  margin : 0;
+  text-align: center;
+
+
+}
+span{
+  font-weight: bold;
+
+}
+hr{
+  border : 10px;
+  width : 15%;
+  border-style: dotted ;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+}
+
+.topbar{
+  position: sticky;
+  top : 0;
+  margin : 0;
+  background-color: #a8df65;
+}
+.heading{
+  margin : 0;
+  text-align: center;
+  font-size: 3.5rem;
+
+  font-family: 'Sacramento', cursive;
+}
+
+.quotebar{
+  margin : 0;
+  background-color: #efb960;
+}
+.quote{
+  margin :0;
+  font-size: 2.5rem;
+  font-family: 'Sacramento', cursive;
+}
+
+.description{
+  width:70%;
+  font-family: 'Tenali Ramakrishna', sans-serif;
+  font-size: 2rem;
+
+  margin : 10px auto;
+
+}
+
+.descriptionimg{
+  margin :0 ;
+  height : 300px;
+  width : 300px;
+  float: right;
+}
+
+.descriptionimg2{
+  margin :0 ;
+  height : 300px;
+  width : 300px;
+  float: left;
+}
+
+.basic_info{
+  width:70%;
+  font-family: 'Tenali Ramakrishna', sans-serif;
+  font-size: 2rem;
+
+  margin : 10px auto;
+}
+
+.img_1{
+  float: left;
+  height: 350px;
+  width : 350px;
+  margin-right: 20px;
+}
+
+.link1{
+  color: #ee91bc;
+}
+.link1:hover{
+  background-color: #efb960;
+}
+
+.heading2{
+  font-family: 'Sacramento', cursive;
+  margin:0;
+  text-align:left;
+}
+
+.fav_songs{
+  margin : 10px auto;
+  width : 70%;
+  font-family: 'Tenali Ramakrishna', sans-serif;
+  font-size: 2rem;
+}
+.hr2{
+  border : 10px;
+  border-style: none;
+  clear: both;
+}
+.songimg1{
+  margin : 0;
+  float : left;
+  height: 300px;
+  width : 300px;
+}
+
+.songimg2{
+  margin : 0;
+  float : right;
+  height: 300px;
+  width : 300px;
+}
